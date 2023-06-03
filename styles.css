@@ -1,0 +1,61 @@
+body{
+ background: url(./assets/background-bar.jpg) no-repeat top center/cover;
+}
+h1{
+  color: #1B1B1B;
+  font-size: 28px;
+  text-align: center;
+  padding-top: 40px;
+
+}
+h2{
+  color: #1B1B1B;
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 35px;
+}
+ul{
+  color: #39393A;
+  font-size: 16px;
+  padding-bottom: 35px;
+}
+ol{
+  color: #39393A;
+  font-size: 16px;
+  padding-bottom: 35px;
+}
+p{
+  color: #39393A;
+  font-size: 16px;
+  margin-left: 25px;
+  padding-bottom: 80px;
+}
+footer{
+  font-size: 12px;
+  color: #8F8F8F;
+  text-align:center ;
+  padding-bottom: 20px;
+}
+#container{
+  background: #ffffffc0;
+  border-radius: 10px;
+  width: 720px;
+  margin: 56px auto 30px;
+ 
+}
+#imagem {
+  text-align: center;
+  padding:20px 10px 30px 10px;
+}
+#imagem img{
+  width: 700px;
+  height: 250px;
+  border-radius: 10px;
+  object-fit: fill;
+}
+#imagem figcaption{
+  color: #8F8F8F;
+  text-align: right;
+  width: 700px;
+  font-size: 12px;
+}
