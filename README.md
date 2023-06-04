@@ -7,11 +7,7 @@
   <a href="#-licença">Licença</a>
 </p>
 <p align="center">
-  <img alt="Licença" src="./assets/layout-receita.jpg">
-</p>
-<br>
-<p align="center">
-  <img alt="Mojito Beam"  width="100%">
+  <img src="./assets/layout-receita.jpg">
 </p>
 
 ## - 🚀Tecnologias
